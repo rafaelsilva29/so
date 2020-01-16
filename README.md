@@ -1,8 +1,9 @@
 # SO
-Sistemas Operativos - MIEINF
+
+## Sistemas Operativos - MIEINF
 
 Trabalho Prático da Unidade Curricular Sistemas Operativos
 
-Mestrado Integrado em Engenharia Informática 
+#### Mestrado Integrado em Engenharia Informática 
 
-Universidade do Minho
+### Universidade do Minho
